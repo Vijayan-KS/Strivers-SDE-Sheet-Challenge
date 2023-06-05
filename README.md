@@ -5,7 +5,11 @@ Arrays
 
 Problems | LC 
 | :--- | :---: 
-Set matrix zero  | [Code](https://www.codingninjas.com/codestudio/problems/set-matrix-zeros_8230862?challengeSlug=striver-sde-challenge&leftPanelTab=1) 
+Set matrix zero  | [Code]() 
 Pascal's Triangle  | [Code](https://leetcode.com/submissions/detail/964463283/) 
+Next Permutation	| [Code]() 
+Kadane's Algorithm | [Code]() 
+Sort an array of 0's, 1's and 2's | [Code]() 
+Stock Buy and Sell | [Code]() 
 
 
