@@ -1,7 +1,7 @@
 # Strivers-SDE-Sheet-Challenge
 https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
 
-Arrays
+Arrays I
 
 Problems | LC 
 | :--- | :---: 
@@ -13,3 +13,13 @@ Sort an array of 0's, 1's and 2's | [Code](https://leetcode.com/submissions/deta
 Stock Buy and Sell | [Code](https://leetcode.com/submissions/detail/965296995/) 
 
 
+Arrays II
+
+Problems | LC 
+| :--- | :---: 
+Rotate Matrix | [Code](https://leetcode.com/submissions/detail/965909851/) 
+Merge Overlapping Subintervals | [Code](https://leetcode.com/submissions/detail/966022246/)
+Merge two sorted arrays without extra spac… | [Code]()
+Find the duplicate in an array of N+1 inte… | [Code](https://leetcode.com/submissions/detail/965949168/)
+Repeat and Missing Number | [Code]()
+Inversion of Array (Pre-req: Merge Sort) | [Code]()
